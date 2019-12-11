@@ -5,5 +5,5 @@ Iptables-new blocks all in comming including local ports
 iptables-lo has local ports opened 
 # How to import
 you can use the script to import or do it yourself with the following command  
-* sudo Iptables-reload /path/to/the/file & ip6tables-reload /path/to/the/file/
-* past them to /etc/ diractory and run smip script
+* <code> sudo Iptables-reload /path/to/the/file </code> & <code> ip6tables-reload /path/to/the/file/ </code>
+* past them to <code>/etc/ </code>diractory and run smip script
