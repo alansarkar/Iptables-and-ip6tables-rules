@@ -19,7 +19,7 @@ then
 iptables-restore < /etc/iptables-lo
 ip6tables-restore < /etc/ip6tables-lo
 fi
-#if [ $x -eq 3 ]
+#if [ $x -eq '3' ]
 #then
 #   iptables -P INPUT ACCEPT
 #   iptables -P OUTPUT ACCEPT
