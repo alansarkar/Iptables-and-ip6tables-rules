@@ -1,4 +1,4 @@
-# Iptables-ip6tables-rules-files
+# Iptables profiles and templates
 
 This is a repo of iptables rules files
 Iptables-new blocks all in comming including local ports 
